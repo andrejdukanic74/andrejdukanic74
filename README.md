@@ -1,14 +1,16 @@
 ![gitartwork](gitartwork.svg)
 # <h3 align="center"> About Me </h3>
 
-Full Stack Developer with over 5 years of professional experience in software development, focusing on React, Next and Node. Proficient in all aspects of the development process, from requirement gathering and design to deployment and maintenance. Skilled in designing and building scalable and maintainable applications using modern technologies and best practices. Passionate about working in a fast-paced, collaborative environment and staying up to date with the latest industry trends.
+I have over 7 years of experience in the IT field. I've created a number of comparison websites, browser extensions as well as other apps for clients that have increased revenue for their businesses as well as streamlined their work flows.
+I have expert knowledge with affiliate marketing. My experience includes building two of the TOP 5 affiliate networks in the world - mundomedia.com (acquired) and Clickdealer.com.
+My goal is to help you succeed and I do my best for your business.
 
 ## <h3 align="center"> Skill Set </h3>
 
 🔹  Languages: C, C++, C#, Python, JavaScript, TypeScript <br>
 🔹  Frameworks & Libraries: React, Vue, Next, Angluar, Node, Nest, Django, ASP.NET <br>
 🔹  Databases: MySQL, MongoDB, PostgreSQL, MsSQL <br>
-🔹  Tools: Git, AWS, Jira, Docker, Azure <br>
+🔹  Tools: Git, AWS, GCP, Jira, Docker, Azure <br>
 
 
 ## <h3 align="center"> Languages and Tools </h3>
