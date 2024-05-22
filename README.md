@@ -1,6 +1,8 @@
 ![gitartwork](gitartwork.svg)
 # <h3 align="center"> About Me </h3>
 
+I am a Senior Full-Stack Web developer.
+I provide custom Web Apps, Websites, and High Quality - on-time Development.
 I have over 7 years of experience in the IT field. I've created a number of comparison websites, browser extensions as well as other apps for clients that have increased revenue for their businesses as well as streamlined their work flows.
 I have expert knowledge with affiliate marketing. My experience includes building two of the TOP 5 affiliate networks in the world - mundomedia.com (acquired) and Clickdealer.com.
 My goal is to help you succeed and I do my best for your business.
