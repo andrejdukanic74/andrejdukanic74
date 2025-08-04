@@ -18,28 +18,28 @@ Proven track of records to design and optimize full-stack solutions, enhance sys
 <table style="text-align: center;">  
   <tr>  
     <td align="center" width="80">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=python" alt="Python" />  
-      <br>Python  
-    </td> 
-    <td align="center" width="80">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=js" alt="Javascript" />  
-      <br>Javascript  
-    </td>
-    <td align="center" width="80">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=nodejs" alt="NodeJs" />  
-      <br>NodeJs  
-    </td>   
-    <td align="center" width="80">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />  
-      <br>TS  
-    </td>  
-    <td align="center" width="80">  
-    <img  width="35" height="35" src="https://skillicons.dev/icons?i=html" alt="HTML" />  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=html" alt="HTML" />  
       <br>HTML  
     </td>  
     <td align="center" width="80">  
       <img  width="35" height="35" src="https://skillicons.dev/icons?i=css" alt="CSS" />  
       <br>CSS  
+    </td>
+    <td align="center" width="80">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=js" alt="Javascript" />  
+      <br>JavaScript  
+    </td>
+    <td align="center" width="80">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />  
+      <br>TypeScript  
+    </td> 
+    <td align="center" width="80">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=nodejs" alt="NodeJs" />  
+      <br>NodeJs  
+    </td>   
+    <td align="center" width="80">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=python" alt="Python" />  
+      <br>Python  
     </td> 
   </tr>  
   <tr>  
@@ -49,7 +49,7 @@ Proven track of records to design and optimize full-stack solutions, enhance sys
     </td>
     <td align="center" width="80">  
       <img  width="35" height="35" src="https://skillicons.dev/icons?i=vue" alt="icon" alt="Vue" />  
-      <br>Vue  
+      <br>Vue.js  
     </td>
     <td align="center" width="80">  
       <img  width="35" height="35" src="https://skillicons.dev/icons?i=next" alt="icon" alt="Next" />  
