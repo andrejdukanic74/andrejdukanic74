@@ -1,18 +1,15 @@
 ![gitartwork](gitartwork.svg)
 # <h3 align="center"> About Me </h3>
 
-I am a Senior Full-Stack Web developer.
-I provide custom Web Apps, Websites, and High Quality - on-time Development.
-I have over 7 years of experience in the IT field. I've created a number of comparison websites, browser extensions as well as other apps for clients that have increased revenue for their businesses as well as streamlined their work flows.
-I have expert knowledge with affiliate marketing. My experience includes building two of the TOP 5 affiliate networks in the world - mundomedia.com (acquired) and Clickdealer.com.
-My goal is to help you succeed and I do my best for your business.
+Senior Full Stack Engineer with over 8 years of hands-on experience in developing robust, scalable web applications using a wide range of technologies including React, Node.js, Python, Vue.js, and Laravel. Strong background in building fully-responsive, user-friendly interfaces with React and Vue.js, while implementing scalable backend systems with Node.js and Python frameworks. 
+Proven track of records to design and optimize full-stack solutions, enhance system performance, and improve user experiences across large-scale applications. Flexible in collaborating with cross-functional teams to deliver innovative features, ensuring both high-quality solution and seamless integration. Committed in writing clean, efficient code and continually learning new technologies to solve complex engineering challenges.
 
 ## <h3 align="center"> Skill Set </h3>
 
-🔹  Languages: C, C++, C#, Python, JavaScript, TypeScript <br>
-🔹  Frameworks & Libraries: React, Vue, Next, Angluar, Node, Nest, Django, ASP.NET <br>
-🔹  Databases: MySQL, MongoDB, PostgreSQL, MsSQL <br>
-🔹  Tools: Git, AWS, GCP, Jira, Docker, Azure <br>
+🔹  Languages: JavaScript, TypeScript, Python <br>
+🔹  Frameworks & Libraries: React, Vue, Next, Node, Nest, Django, Flask, FastAPI <br>
+🔹  Databases: MySQL, MongoDB, PostgreSQL, Pinecone <br>
+🔹  Tools: Git, AWS, GCP, Jira, Docker, Kubernetes <br>
 
 
 ## <h3 align="center"> Languages and Tools </h3>
@@ -20,14 +17,6 @@ My goal is to help you succeed and I do my best for your business.
 <div style="display: flex; align-items: flex-start; align-content: center">  
 <table style="text-align: center;">  
   <tr>  
-    <td align="center" width="80" align="center" width="80">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=cpp" alt="icon" alt="C++" />  
-      <br>C++  
-    </td>  
-    <td align="center" width="80">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=cs" alt="C#" />  
-      <br>C#  
-    </td> 
     <td align="center" width="80">  
       <img  width="35" height="35" src="https://skillicons.dev/icons?i=python" alt="Python" />  
       <br>Python  
@@ -52,14 +41,6 @@ My goal is to help you succeed and I do my best for your business.
       <img  width="35" height="35" src="https://skillicons.dev/icons?i=css" alt="CSS" />  
       <br>CSS  
     </td> 
-    <td align="center" width="80">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=java" alt="Java" />  
-      <br>Java  
-    </td>  
-    <td align="center" width="80">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=php" alt="PHP" />  
-      <br>PHP  
-    </td>  
   </tr>  
   <tr>  
     <td align="center" width="80">  
@@ -75,10 +56,6 @@ My goal is to help you succeed and I do my best for your business.
       <br>Next  
     </td>
     <td align="center" width="80">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=angular" alt="icon" alt="Angular" />  
-      <br>Angular  
-    </td>
-    <td align="center" width="80">  
       <img  width="35" height="35" src="https://skillicons.dev/icons?i=express" alt="icon" alt="Express" />  
       <br>Express  
     </td>
@@ -91,16 +68,12 @@ My goal is to help you succeed and I do my best for your business.
       <br>Django  
     </td>
     <td align="center" width="80">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=dotnet" alt="icon" alt=".Net" />  
-      <br>.Net  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=flask" alt="icon" alt="Flask" />  
+      <br>Flask  
     </td>
     <td align="center" width="80">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=spring" alt="icon" alt="Spring" />  
-      <br>Spring  
-    </td>
-    <td align="center" width="80">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=laravel" alt="icon" alt="Laravel" />  
-      <br>Laravel  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=fastapi" alt="icon" alt="FastAPI" />  
+      <br>FastAPI  
     </td>
   </tr>
   <tr>  
@@ -116,6 +89,8 @@ My goal is to help you succeed and I do my best for your business.
       <img  width="35" height="35" src="https://skillicons.dev/icons?i=mongodb" alt="icon" alt="MongoDB" />  
       <br>Mongo
     </td>
+  </tr>
+  <tr>  
     <td align="center" width="80">  
       <img  width="35" height="35" src="https://skillicons.dev/icons?i=git" alt="icon" alt="Git" />  
       <br>Git  
@@ -125,12 +100,12 @@ My goal is to help you succeed and I do my best for your business.
       <br>GitHub  
     </td>
     <td align="center" width="80">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=stackoverflow" alt="icon" alt="Stackoverflow" />  
-      <br>Stack  
-    </td>
-    <td align="center" width="80">  
       <img  width="35" height="35" src="https://skillicons.dev/icons?i=docker" alt="icon" alt="Docker" />  
       <br>Docker  
+    </td>
+    <td align="center" width="80">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=kubernetes" alt="icon" alt="Kubernetes" />  
+      <br>Kubernetes  
     </td>
     <td align="center" width="80">  
       <img  width="35" height="35" src="https://skillicons.dev/icons?i=tailwind" alt="icon" alt="Tailwind" />  
